@@ -1,0 +1,11 @@
+1. open this projct folder path in cmd
+2. open cmd ---> type jupyter notebook and enter
+3. on web this project will be opened
+
+
+
+for using the streamlit
+1. open folder in cmd 
+2. write   "streamlit run app.py" in terminal 
+3. enter
+
